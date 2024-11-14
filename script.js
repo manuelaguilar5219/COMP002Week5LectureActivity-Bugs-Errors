@@ -9,3 +9,6 @@ myAverage += myGrades[i];
 }
 
 myAverage = myAverage / myGrades.length;
+
+console.log("My grade average is " + myAverage);
+
