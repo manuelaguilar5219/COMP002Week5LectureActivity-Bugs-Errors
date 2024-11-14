@@ -21,4 +21,3 @@ function validateNumber(input) {
 
 console.log(validateNumber(50));  // Output: Input is valid
 console.log(validateNumber(101)); // Output: Input must be a number between 0 and 100
-
