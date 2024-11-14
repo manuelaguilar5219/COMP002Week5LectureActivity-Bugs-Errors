@@ -2,7 +2,7 @@ myGrades = [100, 100, 90, 73, 78, 94, 86];
 
 myAverage = 0;
 
-for (let i = 1; i <= myGrades.length; i++) {
+for (let i = 0; i < myGrades.length; i++) { // changed 1 to zero and removed the "="
 
 myAverage += myGrades[i];
 
